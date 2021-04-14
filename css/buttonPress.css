@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* ------- HORIZONTAL ------- */
+
+.guitar-container {
+  position: relative;
+}
+
+.guitar-img {
+  width: 100%;
+}
+
+#button-gitaar-e {
+  position: absolute;
+  z-index: 1;
+  top: 17%;
+  padding: 0.7rem 2rem;
+  margin-top: -0.9rem;
+  font-size: 1.2rem;
+}
+#button-gitaar-b {
+  position: absolute;
+  z-index: 1;
+  top: 30%;
+  padding: 0.7rem 2rem;
+  margin-top: -0.9rem;
+  font-size: 1.2rem;
+}
+#button-gitaar-g {
+  position: absolute;
+  z-index: 1;
+  top: 43%;
+  padding: 0.7rem 2rem;
+  margin-top: -0.9rem;
+  font-size: 1.2rem;
+}
+#button-gitaar-d {
+  position: absolute;
+  z-index: 1;
+  bottom: 36%;
+  padding: 0.7rem 2rem;
+  margin-top: -0.9rem;
+  font-size: 1.2rem;
+}
+#button-gitaar-a {
+  position: absolute;
+  z-index: 1;
+  bottom: 23%;
+  padding: 0.7rem 2rem;
+  margin-top: -0.9rem;
+  font-size: 1.2rem;
+}
+#button-gitaar-6 {
+  position: absolute;
+  z-index: 1;
+  bottom: 10%;
+  padding: 0.7rem 2rem;
+  margin-top: -0.9rem;
+  font-size: 1.2rem;
+}
+
+#button-gitaar-chord-c {
+  position: absolute;
+  z-index: 1;
+  bottom: 2%;
+  padding: 0.7rem 2rem;
+  margin-top: -0.9rem;
+  font-size: 1.2vw;
+  right: 1%;
+}
+
+#button-gitaar-chord-d {
+  position: absolute;
+  z-index: 1;
+  bottom: 2%;
+  padding: 0.7rem 2rem;
+  margin-top: -0.9rem;
+  font-size: 1.2vw;
+  right: 12%;
+}
+
+#button-gitaar-chord-dm {
+  position: absolute;
+  z-index: 1;
+  bottom: 2%;
+  padding: 0.7rem 2rem;
+  margin-top: -0.9rem;
+  font-size: 1.2vw;
+  right: 23%;
+}
+
+#button-gitaar-chord-e {
+  position: absolute;
+  z-index: 1;
+  bottom: 2%;
+  padding: 0.7rem 2rem;
+  margin-top: -0.9rem;
+  font-size: 1.2vw;
+  right: 35%;
+}
