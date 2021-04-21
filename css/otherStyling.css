@@ -19,6 +19,8 @@ main {
 article {
   display: flex;
   padding: 2rem 1rem;
+  flex-direction: column;
+  max-height: 28rem;
   flex-wrap: wrap;
 }
 
