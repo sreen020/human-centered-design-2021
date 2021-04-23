@@ -50,22 +50,22 @@ https://github.com/sreen020/human-centered-design-2021/wiki/Test-ronde-%233--21-
 
 ## Exclusive Design Principles
 
-**Study Situation**>br>
+**Study Situation**<br>
 Het is belangrijk tijdens dit project om zo goed mogelijk te weten wat Eric nodig heeft, werkt voor hem en fijn vindt. Wij willen met dit project zijn huidige situatie verbeteren, dit betekend natuurlijk wel dat wel heel goed op de hoogste moeten zijn van zijn huidige situatie. Dit hebben we vanaf de eerste test al erg proberen te achterhalen dmv vragen over Eric zijn leven, test vragen over het product, goed kijken wat en waarom hij handelingen verricht tijdens het testen.
  
 
-**Ignore Conventions**>br>
+**Ignore Conventions**<br>
 In de web design wereld hebben we bepaalde standaarden gekregen, dit noemen we conventies. Deze conventies maken het voor “de gewone gebruiker” makkelijk en overzichtelijk. Denk aan de knop voor een winkelmandje. Ziet en meestal hetzelfde uit en staat altijd rechtsboven. Hierdoor hoeven mensen niet te zoeken. 
 
 In dit project werkt het weer een beetje anders. Eric is niet een gewone gebruiker, hij surft op een andere manier op het internet. Hierdoor werken sommige conventies dan ook niet.
 
 Tijdens het creëren van deze applicatie heb ik alle design conventies losgelaten en ben puur gaan luisteren naar wat Eric wil. Zo heb ik buttons een mouseover event meegegeven, dis is natuurlijk heel onwennig en misschien wel vervelend voor andere.
 
-**Prioritize Identity**>br>
+**Prioritize Identity**<br>
 Normaal heb je een doelgroep waar je een product voor maakt. Tijdens dit project heb ik alleen Eric. De website moet voor hem goed werken en voor hem mooi zijn. Ik heb zijn wensen ook geprobeerd zijn identiteit erin te verwerken. Uiteindelijk ben ik daar een beetje in doorgeslagen en heb ik het hele concept aangepast naar zijn identiteit, namelijk gitaarspelen.
 
 
-**Add Nonsense**>br>
+**Add Nonsense**<br>
 Met veel dingen die je in het dagelijks leven doet heb je meerdere ideeën bij. Een aantal van deze ideeën zijn goed en die voor je misschien ook uit. Dan heb je er ook een aantal ideeën bijzitten waarvan je benieuwd bent of ze werken maar toch niet gaat proberen. In dit project is ons verteld om JUIST die ideeën te proberen. Hier kunnen namelijk hele interessante ideeën en concepten uitkomen.
 
 
