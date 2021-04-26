@@ -69,4 +69,4 @@ Normaal heb je een doelgroep waar je een product voor maakt. Tijdens dit project
 Met veel dingen die je in het dagelijks leven doet heb je meerdere ideeën bij. Een aantal van deze ideeën zijn goed en die voor je misschien ook uit. Dan heb je er ook een aantal ideeën bijzitten waarvan je benieuwd bent of ze werken maar toch niet gaat proberen. In dit project is ons verteld om JUIST die ideeën te proberen. Hier kunnen namelijk hele interessante ideeën en concepten uitkomen.
 
 
-
+## Zorg dat je voor de beoordeling in je Readme (of wiki) een conclusie schrijft waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak.
