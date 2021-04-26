@@ -23,8 +23,9 @@ function addButtonToSelection() {
     button.addEventListener("click", () => {
       const cln = buttonContainer.cloneNode(true);
       const text = cln.querySelector("p");
+      text.classList.add("removeButton");
 
-      text.innerText = "remove";
+      text.innerText = "X";
 
       selectedChordSection.appendChild(cln);
       playSoundOnClick();
@@ -40,9 +41,13 @@ function playSoundOnClick() {
   selectedbuttons.forEach((btnContainer) => {
     const btn = btnContainer.querySelector("button");
     const deleteBtn = btnContainer.querySelector("p");
+    const chordImage = document.getElementById("chord-image");
 
     btn.addEventListener("click", () => {
       const audio = new Audio(`./assets/chords/${btn.innerText}.mp4`);
+      // const image = new Image(`./assets/chords-pics/${btn.innerText}.png`);
+
+      chordImage.src = `./assets/chords-pics/${btn.innerText}.png`;
 
       audio.currentTime = 0;
       audio.play();

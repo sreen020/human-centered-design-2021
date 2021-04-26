@@ -8,12 +8,33 @@
 
 main {
   position: relative;
-  padding: 4rem;
+  display: flex;
+  font-family: sans-serif;
+}
+
+.sidebar {
+  background-color: #f19066;
+  height: 100vh;
+  padding: 2vw;
+  width: 30%;
+}
+
+.guitar-section {
+  padding: 3rem;
+  width: 70%;
+}
+
+.guitar-section > div {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
 }
 
 .guitar-img {
-  width: 100%;
   border-radius: 3rem;
+  width: 60%;
+  height: fit-content;
 }
 
 article {
@@ -30,16 +51,35 @@ article {
   align-items: center;
 }
 
+.chord-btn-container p {
+  margin-top: 0.4rem;
+  cursor: pointer;
+}
+
+.removeButton {
+  color: red;
+  border: 1px solid red;
+  padding: 0.3rem 0.5rem;
+  border-radius: 50%;
+  margin-top: 0.5rem;
+  cursor: pointer;
+}
+
 button {
-  padding: 1rem 2rem;
+  padding: 1vw 3vw;
+  font-size: 0.8vw;
   background: #f0dccb;
   border-radius: 0;
   border: 1px solid black;
+  cursor: pointer;
 }
 
 .chords-section {
-  padding: 2rem;
-  border: 2px solid black;
+  padding: 2rem 0;
   display: flex;
   flex-wrap: wrap;
+}
+
+#chord-image {
+  height: 15rem;
 }
