@@ -65,4 +65,12 @@ Normaal heb je een doelgroep waar je een product voor maakt. Tijdens dit project
 Met veel dingen die je in het dagelijks leven doet heb je meerdere ideeën bij. Een aantal van deze ideeën zijn goed en die voor je misschien ook uit. Dan heb je er ook een aantal ideeën bijzitten waarvan je benieuwd bent of ze werken maar toch niet gaat proberen. In dit project is ons verteld om JUIST die ideeën te proberen. Hier kunnen namelijk hele interessante ideeën en concepten uitkomen.
 
 
-## Zorg dat je voor de beoordeling in je Readme (of wiki) een conclusie schrijft waar je in gaat op de leerdoelen en criteria en hoe je dit hebt gehaald. Dit is je bewijsvoering voor het vak.
+## Conclusie
+
+Tijdens de opleiding CMD word je dood gegooid met testen, testen en testen. Je zou zeggen dat dit dan niet meer zo spannend moet zijn. Raar genoeg waren deze testen niet te vergelijken met alle (voor mij) vorige.
+
+Tijdens deze periode hebben we drie testmomenten gehad met onze persoon. Je merkt al snel dat dit voor een project veel te weinig is. Het liefst zit je 1 dag per week naast hem om precies te achterhalen wat hij wilt en denkt. We hebben het hier moeten doen met 3x 10 minuten. Dit was een opgave, van te voren moet je goed nadenken wat je wel en wat je niet wilt laten zien. Voor elke test heb ik een lijstje gemaakt met vragen en een lijstje met dingen waar ik feedback op wil. Ik heb veel vragen gesteld aan Eric om er achter te komen wat de “user needs” zijn. Wanneer Eric door mijn applicatie klikte heb ik een schermopname gedaan zodat ik tijdens het testen kon letten op het doorvragen.  
+
+Met elke test heb ik veel punten gekregen waar ik mee door kan werken. Ik heb deze punten voor mijzelf gecategoriseerd  op prioriteit. Omdat Eric zelf een interaction designer is, beantwoord hij vragen op een goede manier. Soms wilt hij zelf een oplossing voor het probleem geven maar dan houdt hij zichzelf tegen voordat hij ons een kant opstuurt.
+
+Het Dit project was lastiger dan ik had verwacht. Je maakt namelijk echt iets voor één specifieke persoon. Als hij het iets anders wilt dan doe je dat, zelfs als je het daar niet mee eens bent. Naast een goed werkend product wil ik ook Eric’s persoonlijkheid hierin betrekken. Dit heb ik gedaan dmv de gitaar. Ik vind het wel een leuk project omdat je elke week aan het werk bent voor de test. Van deze test neem je veel informatie mee naar de volgende week.
