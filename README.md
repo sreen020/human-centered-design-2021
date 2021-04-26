@@ -6,10 +6,6 @@ Voor dit vak krijgen we een ontwerp-opdracht die we gaan maken voor 1 specifiek 
 
 
 
-
-Voor wie maken we dit?
-
-
 ## User needs
 
 **Wie**<br>
@@ -33,7 +29,7 @@ Eric vertelde ons trots dat er ooit een gitaar voor hem gepersonaliseerd is. Dit
 
 
 ## Live Link
-
+https://sreen020.github.io/human-centered-design-2021/
 
 
 ## Tests
