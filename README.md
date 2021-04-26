@@ -29,7 +29,7 @@ Eric vertelde ons trots dat er ooit een gitaar voor hem gepersonaliseerd is. Dit
 
 
 ## Live Link
-https://sreen020.github.io/human-centered-design-2021/
+https://sreen020.github.io/human-centered-design-2021/index.html
 
 
 ## Tests
