@@ -63,6 +63,7 @@ Normaal heb je een doelgroep waar je een product voor maakt. Tijdens dit project
 **Add Nonsense**<br>
 Met veel dingen die je in het dagelijks leven doet heb je meerdere ideeën bij. Een aantal van deze ideeën zijn goed en die voor je misschien ook uit. Dan heb je er ook een aantal ideeën bijzitten waarvan je benieuwd bent of ze werken maar toch niet gaat proberen. In dit project is ons verteld om JUIST die ideeën te proberen. Hier kunnen namelijk hele interessante ideeën en concepten uitkomen.
 
+Aan mijn concept te zien heb ik eigenlijk de hele opdracht aan de kant geschoven en ben ik "onzinnigs" aan het maken. Dit kan natuurlijk gevaarlijk zijn, vindt hij dit leuk of wil Eric gewoon zijn gekozen onderwerp hebben. Gelukkig vind Eric het een leuk idee en werd enthousiast van het testen.
 
 ## Conclusie
 
