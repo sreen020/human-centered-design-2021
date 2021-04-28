@@ -5,6 +5,10 @@ Human Centered Design is een methode voor het ontwerpen van gebruiksvriendelijk
 Voor dit vak krijgen we een ontwerp-opdracht die we gaan maken voor 1 specifiek persoon. Wij moeten ons ontwerp 3 keer laten testen door deze gebruiker. Door te testen en te itereren zullen we ons concept verbeteren. Uiteindelijk hebben we een ontwerp dat exclusief gemaakt is voor deze ene persoon. Een exclusive design ... Wie is deze persoon dan voor wie je dit gaat maken? Wat vindt deze persoon leuk of juist niet? En hoe bedient deze persoon een computer? Dit lees je in de vervolg pagina’s
 
 
+## Live Link
+https://sreen020.github.io/human-centered-design-2021/index.html
+
+<img src="https://github.com/sreen020/human-centered-design-2021/blob/master/assets/img/screenshot-final.png" width="1100" />
 
 ## User needs
 
@@ -25,11 +29,6 @@ Verder maakt Eric gebruik van Google Chrome. Hij heeft een erg groot beeldscherm
 
 **Waarom**<br>
 Eric vertelde ons trots dat er ooit een gitaar voor hem gepersonaliseerd is. Dit vond hij helemaal geweldig. Maar toen we heb de vraag stelde of hij nog wel een gitaar speelt zij hij nee. Dit kwam omdat hij erg druk is en hij naast zijn werkzaamheden ook veel tijd besteed op de computer. Het is natuurlijk een stuk eenvoudiger om een website te openen dan een gitaar te pakken voor Eric, misschien is dit wel de reden dat hij het toch niet zo snel doet. Misschien dat deze online gitaar daar verandering in kan brengen. 
-
-
-
-## Live Link
-https://sreen020.github.io/human-centered-design-2021/index.html
 
 
 ## Tests
