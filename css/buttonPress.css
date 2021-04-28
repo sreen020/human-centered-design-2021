@@ -26,7 +26,6 @@ main {
 
 .guitar-section > div {
   display: flex;
-  justify-content: space-between;
   flex-wrap: wrap;
   width: 100%;
 }
@@ -35,6 +34,7 @@ main {
   border-radius: 3rem;
   width: 60%;
   height: fit-content;
+  margin-right: 3rem;
 }
 
 article {
